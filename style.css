@@ -8,6 +8,7 @@
   padding: 1rem 3rem;
   font-family: "Onest", sans-serif;
   height: 75vh;
+
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -24,6 +25,15 @@
   font-size: 2rem;
   padding: 1rem;
   border-radius: 1rem;
+  background-color: beige;
+}
+
+.resetuj {
+  font-family: "Onest", sans-serif;
+  font-size: 0.75rem;
+  padding: 0.5rem;
+  border-radius: 0.6rem;
+  font-weight: bold;
   background-color: beige;
 }
 
