@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Onest:wght@300;700;900&display=swap");
+
+.body {
+  font-family: "Onest", sans-serif;
+}
+
+.container {
+  padding: 1rem 3rem;
+  font-family: "Onest", sans-serif;
+  height: 75vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-content: center;
+}
+
+.naslov {
+  font-size: 4rem;
+}
+
+.dugme {
+  font-family: "Onest", sans-serif;
+  font-size: 2rem;
+  padding: 1rem;
+  border-radius: 1rem;
+  background-color: beige;
+}
+
+#tekst {
+  margin-left: auto;
+  margin-right: auto;
+  font-family: "Onest", sans-serif;
+  font-size: 10rem;
+}
